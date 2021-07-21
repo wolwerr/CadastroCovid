@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604688091 source:c:\users\ricar\onedrive\unip\pim4\dll\pim4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+

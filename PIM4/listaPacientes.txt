@@ -1,0 +1,13 @@
+NOME: Joao da Silva
+CPF: 123.456.789-10
+TELEFONE: 19 91234-5678
+ENDEREÇO: Fagundes, nº 12
+BAIRRO: Jardir Flores
+CIDADE: Campinas - SP
+CEP: 13003-030
+DATA DE NASCIMENTO: 20 / 5 / 2000
+E-MAIL: joaodasilva@hotmail.com
+DATA DO DIAGNÓSTICO: 6 / 11 / 2020
+COMORBIDADES: Fumante
+
+
